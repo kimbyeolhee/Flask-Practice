@@ -6,6 +6,7 @@ app = Flask(__name__)
 def login():
     username = request.args.get("user_name")
     password = request.args.get("pw")
+    print(username, password)
 
     if username == "byeol":
         return_data = {'auth': 'success'}
