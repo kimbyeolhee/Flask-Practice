@@ -14,4 +14,4 @@
 
 # [Flask와 DATABASE](./flask_ABTest/)
 
-# [?](./flask_ABTest_Practice/)
+# [Flask와 AB테스트](./flask_ABTest_Practice/)
